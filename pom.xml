@@ -11,7 +11,7 @@
     <url>https://github.com/clir/clearnlp-general-en-dep</url>
     <connection>scm:git:git://github.com:clir/clearnlp-general-en-dep.git</connection>
     <developerConnection>scm:git:git@github.com:clir/clearnlp-general-en-dep.git</developerConnection>
-    <tag>clearnlp-dictionary-3.0</tag>
+    <tag>clearnlp-general-en-dep-3.1</tag>
   </scm>
 
   <licenses>
